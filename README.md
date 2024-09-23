@@ -1,12 +1,12 @@
 # NUMBER IN THE ROW 
 * !
 * @
-* \#
+* #
 * $
 * %
 * ^
 * &
-* \* 
+* * 
 * (
 * )
 ## USEFULL LINK
