@@ -20,3 +20,13 @@
 :kissing:
 :purple_heart:
 :innocent:
+
+## frequently shortcut key
+- CTRL+Z
+- CTRL+S
+- CTRL+A
+
+SHORTCUTS I WOULD LIKE TO START USING
+- CTRL+R
+- G+C
+- CTRL+B
