@@ -30,3 +30,9 @@ SHORTCUTS I WOULD LIKE TO START USING
 - CTRL+R
 - G+C
 - CTRL+B
+
+ls- ls is listing comand ussed to show all the files
+
+Cat- cat command is used for reading files
+
+[CLI commands](docs/cli.md)
